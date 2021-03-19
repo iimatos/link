@@ -1,0 +1,28 @@
+@media only screen and (max-width: 540px) {
+  h1 {
+    font-family: "Raleway regular", sans-serif;
+    font-size: 1.6rem;
+    font-weight: 400;
+    max-width: 28.2rem;
+  }
+
+  .btn-link {
+    max-width: 28.8rem;
+    max-height: 6rem;
+    margin-top: 4.5rem;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .btn-link {
+    max-width: 25rem;
+    max-height: 6rem;
+    padding: 0.5rem;
+  }
+}
+
+@media only screen and (max-width: 280px) {
+  .btn-link {
+    max-width: 20rem;
+  }
+}

@@ -23,12 +23,6 @@ body {
   min-height: 100%;
 }
 
-h1 {
-  font-family: "Raleway semibold", sans-serif;
-  font-size: 3.125rem;
-  color: white;
-}
-
 span {
   font-size: 1.6rem;
   color: #1d1d1b;
@@ -56,6 +50,9 @@ span {
 }
 
 h1 {
+  font-family: "Raleway semibold", sans-serif;
+  font-size: 3.125rem;
+  color: white;
   width: 100%;
   max-width: 56.4rem;
   text-align: center;
